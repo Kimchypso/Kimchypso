@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Isaac, current CS engineer student in Mexico. 
+I'm Isaac, current CS engineer.
+Focus on:
+  • Data Security
+  • Cloud Computing
+  • Clean Websites
+
+
